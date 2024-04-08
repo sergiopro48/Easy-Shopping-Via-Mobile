@@ -11,4 +11,4 @@
 <h3>Desktop e Celular.</h3>
 <img src="https://github.com/sergiopro48/Easy-Shopping-Via-Mobile/blob/main/assets/Deskgit.png?raw=true /">  
 <br>
-<img src=" /">
+<img src=" https://github.com/sergiopro48/Easy-Shopping-Via-Mobile/blob/main/assets/Mobile.png?raw=true/">
